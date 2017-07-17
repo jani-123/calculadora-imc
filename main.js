@@ -1,4 +1,5 @@
 
+
 function calculadora(){
 	var peso;
 	var altura;
@@ -12,11 +13,6 @@ function calculadora(){
 	alert("Tu indice de masa corporal es"+imc);
 
 
-
-
-
-
-
-
 }
  calculadora();
+
